@@ -1,8 +1,12 @@
-import { Button } from '@/components/ui/button'
+
 
 const DashboardPage=() => {
   return (
-    <p>Dashboard page</p>
+    <div>
+          <p className="flex items-center justify-center h-full">Dashboard page</p>
+          
+    </div>
+  
   )
 }
 
